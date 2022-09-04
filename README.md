@@ -1,5 +1,5 @@
 ## Hi, I'm Martin 👋 :man_technologist:
-### A Software Developer @ [Techkey Cybernetics](www.techkey.co.ke)
+### A Software Developer
  
  Portfolio: [martin.techkey.co.ke](https://www.martin.techkey.co.ke)
  
